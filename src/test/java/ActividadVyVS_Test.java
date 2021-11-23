@@ -37,7 +37,7 @@ public class ActividadVyVS_Test {
 
     @Test
     public void anioBisiestoTest(){
-        boolean result = actVyVS.anioBisiesto(2020);
+        boolean result = actVyVS.anioBisiesto(2022);
         assertTrue(result);
     }
 
